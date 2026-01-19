@@ -1,4 +1,4 @@
- Project Overview
+ Project Overview :
 This end-to-end data analysis project demonstrates the full data pipeline: from extracting raw financial data using SQL, performing in-depth exploratory data analysis (EDA) in Python (JupyterLab), to creating an interactive executive dashboard in Power BI. The goal is to monitor the liquidity and profitability of hundreds of companies over a 15-year period.
 
 Analysis Workflow
